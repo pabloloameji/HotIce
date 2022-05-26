@@ -3,10 +3,12 @@
 }
 
 body {
+    font-family: 'Bebas Neue', cursive;
     background-color: black;
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: white;
 }
 
 
@@ -15,6 +17,3 @@ body {
     height: 15%;
 }
 
-.opt-lang a{
-    
-}
